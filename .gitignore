@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+euromillions - BACKUP LOCAL 2026-05-09.ipynb
+
+# --- Répertoire CSV
+# ... tout le contenu du dossier csv...
+csv/*
+
+# ... sauf :
+!csv/global.csv
+# --- fin répertoire csv 
